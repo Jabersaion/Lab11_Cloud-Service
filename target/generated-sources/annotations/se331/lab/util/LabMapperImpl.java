@@ -16,7 +16,7 @@ import se331.lab.entity.ParticipantWithEventsDTO;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2025-11-27T16:59:13+0800",
+    date = "2025-11-28T10:24:55+0800",
     comments = "version: 1.6.0, compiler: Eclipse JDT (IDE) 3.44.0.v20251118-1623, environment: Java 21.0.9 (Eclipse Adoptium)"
 )
 public class LabMapperImpl implements LabMapper {
